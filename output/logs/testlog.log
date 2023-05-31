@@ -1,0 +1,74 @@
+2023-05-02 04:04:59,345 - logger_file -INFO - user is on retail website
+2023-05-02 04:44:27,751 - logger_file -INFO - user is on retail website
+2023-05-02 04:44:28,093 - logger_file -INFO - user clicked on Sign In Option
+2023-05-02 12:30:59,696 - logger_file -INFO - user is on retail website
+2023-05-02 12:31:00,041 - logger_file -INFO - user clicked on Sign In Option
+2023-05-02 23:36:07,199 - logger_file -INFO - user is on retail website
+2023-05-02 23:36:07,574 - logger_file -INFO - user clicked on Sign In Option
+2023-05-02 23:43:56,602 - logger_file -INFO - user is on retail website
+2023-05-02 23:43:56,943 - logger_file -INFO - user clicked on Sign In Option
+2023-05-03 19:18:11,216 - logger_file -INFO - user is on retail website
+2023-05-03 19:18:11,561 - logger_file -INFO - user clicked on Sign In Option
+2023-05-03 19:20:40,018 - logger_file -INFO - user is on retail website
+2023-05-03 19:20:40,459 - logger_file -INFO - user clicked on Sign In Option
+2023-05-03 19:24:04,430 - logger_file -INFO - user is on retail website
+2023-05-03 19:24:04,764 - logger_file -INFO - user clicked on Sign In Option
+2023-05-03 19:28:01,678 - logger_file -INFO - user is on retail website
+2023-05-03 19:28:02,041 - logger_file -INFO - user clicked on Sign In Option
+2023-05-03 19:30:33,725 - logger_file -INFO - user is on retail website
+2023-05-03 19:30:34,047 - logger_file -INFO - user clicked on Sign In Option
+2023-05-03 19:32:05,992 - logger_file -INFO - user is on retail website
+2023-05-03 19:32:06,385 - logger_file -INFO - user clicked on Sign In Option
+2023-05-03 19:42:08,691 - logger_file -INFO - user is on retail website
+2023-05-03 19:42:09,054 - logger_file -INFO - user clicked on Sign In Option
+2023-05-03 19:42:09,271 - logger_file -INFO - user entered email and password
+2023-05-03 19:42:09,544 - logger_file -INFO - user clicked on login button
+2023-05-03 19:48:45,445 - logger_file -INFO - user is on retail website
+2023-05-03 19:48:45,820 - logger_file -INFO - user clicked on Sign In Option
+2023-05-03 19:48:46,000 - logger_file -INFO - user entered email and password
+2023-05-03 19:48:46,268 - logger_file -INFO - user clicked on login button
+2023-05-03 19:54:10,291 - logger_file -INFO - user is on retail website
+2023-05-03 19:54:10,675 - logger_file -INFO - user clicked on Sign In Option
+2023-05-03 19:54:10,863 - logger_file -INFO - user entered email and password
+2023-05-03 19:54:11,145 - logger_file -INFO - user clicked on login button
+2023-05-03 19:55:49,888 - logger_file -INFO - user is on retail website
+2023-05-03 19:55:50,247 - logger_file -INFO - user clicked on Sign In Option
+2023-05-03 19:55:50,419 - logger_file -INFO - user entered email and password
+2023-05-03 19:55:50,675 - logger_file -INFO - user clicked on login button
+2023-05-03 20:01:19,872 - logger_file -INFO - user is on retail website
+2023-05-03 20:01:20,200 - logger_file -INFO - user clicked on Sign In Option
+2023-05-03 20:01:20,399 - logger_file -INFO - user entered email and password
+2023-05-03 20:01:20,658 - logger_file -INFO - user clicked on login button
+2023-05-03 20:01:20,956 - logger_file -INFO - user logged in into account
+2023-05-03 20:01:21,289 - logger_file -INFO - user clicked on Account option
+2023-05-03 20:01:21,519 - logger_file -INFO - user updated the name and the phone value
+2023-05-03 20:01:21,780 - logger_file -INFO - user cliced on update button
+2023-05-03 20:01:22,388 - logger_file -INFO - user profie information updated
+2023-05-22 23:31:32,221 - logger_file -INFO - user is on retail website
+2023-05-22 23:31:32,629 - logger_file -INFO - user clicked on Sign In Option
+2023-05-22 23:36:56,414 - logger_file -INFO - Retail website opened and verified
+2023-05-22 23:36:56,851 - logger_file -INFO - user clicked on sign in option
+2023-05-22 23:36:57,088 - logger_file -INFO - Sdet@sdet.com: was entered
+2023-05-22 23:36:57,394 - logger_file -INFO - login button was clicked
+2023-05-22 23:48:49,550 - logger_file -INFO - Retail website opened and verified
+2023-05-22 23:48:49,951 - logger_file -INFO - user clicked on sign in option
+2023-05-22 23:48:50,218 - logger_file -INFO - New account button was clicked
+2023-05-22 23:48:50,495 - logger_file -INFO - Registration info entered
+2023-05-22 23:54:50,384 - logger_file -INFO - Retail website opened and verified
+2023-05-22 23:54:50,759 - logger_file -INFO - user clicked on sign in option
+2023-05-22 23:54:51,039 - logger_file -INFO - New account button was clicked
+2023-05-22 23:54:51,352 - logger_file -INFO - Registration info entered
+2023-05-22 23:54:51,639 - logger_file -INFO - Sign up button was clicked
+2023-05-23 00:23:02,448 - logger_file -INFO - Retail website opened and verified
+2023-05-23 00:23:02,906 - logger_file -INFO - User clicked on All Section successfully
+2023-05-23 00:23:02,977 - logger_file -INFO - options Electronics, Computers, Smart Home, Sports and Automative are present
+2023-05-23 00:28:36,182 - logger_file -INFO - Retail website opened and verified
+2023-05-23 00:28:36,622 - logger_file -INFO - User clicked on All Section successfully
+2023-05-23 00:28:45,339 - logger_file -INFO - Retail website opened and verified
+2023-05-23 00:28:45,697 - logger_file -INFO - User clicked on All Section successfully
+2023-05-23 00:28:54,392 - logger_file -INFO - Retail website opened and verified
+2023-05-23 00:28:54,728 - logger_file -INFO - User clicked on All Section successfully
+2023-05-23 00:29:03,151 - logger_file -INFO - Retail website opened and verified
+2023-05-23 00:29:03,482 - logger_file -INFO - User clicked on All Section successfully
+2023-05-23 00:29:11,841 - logger_file -INFO - Retail website opened and verified
+2023-05-23 00:29:12,187 - logger_file -INFO - User clicked on All Section successfully
